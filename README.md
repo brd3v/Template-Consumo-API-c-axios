@@ -7,4 +7,7 @@ https://www.youtube.com/watch?v=VM4e37DaskU
 
 
 template pode ser usado para consumir futras APIS,
-Root 25 Rocktseat
+Root 25 Rocketseat
+
+
+api from Rocketseat
